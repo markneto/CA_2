@@ -2,7 +2,7 @@
 
 - Student Name: MARCELO Ferreira Neto
 - Student ID: 25708
-- Course: Your course
+- Course: Computing Science, Year 2
 
 ## Requirement Checklist
 
@@ -17,7 +17,7 @@
   - [x] 1.4. If any seats are selected, show how many seats are selected and hide remaining seats
 - [ ] 2. Seat selection feature:
   - [x] 2.1. Clicking any item (anywhere on the item) on the movie recycler view should open a new MovieActivity, refer to movie_activity_*.jpg (provided on Moodle)
-  - [ ] 2.2. Add plus and minus icons, show seats_selected in the middle
+  - [x] 2.2. Add plus and minus icons, show seats_selected in the middle
   - [ ] 2.3. On click plus/minus, update both seats_selected and seats_remaining for that movie
   - [ ] 2.4. Add validation, when 0 seats selected minus is disabled, when 0 seats remaining plus is disabled
   - [ ] 2.5. When back is pressed, the selected seats are retained and reflected in the recycler view. (Hint: If you don’t see any updates, call adapter notifyItemChanged as soon as you return to the recycler view activity)
