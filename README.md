@@ -32,32 +32,39 @@ This is an optional section, feel free to remove this.
 
 ## Report
 
-Struggles and Learning Outcomes in Android Studio Application Development
-
-Introduction:
-In this essay, I will share my experience attempting to develop an Android application using Android Studio as a beginner with no prior knowledge in IT or mobile programming. The project was in line with the requirements and guidelines set by Professor Saravanabalagi Ramachandran. I faced numerous challenges in completing this project, and unfortunately, I was unable to generate a working APK or visualize the finished app.
-
-Challenges:
-As a beginner, the Android Studio environment presented a significant learning curve for me. Many of the components and functions required for the project were unfamiliar to me. Also, my limited knowledge of Java programming made it difficult to comprehend the intricate details requested by the professor.
-
-Failed Attempts and Workarounds:
-I spent countless hours attempting to include the necessary components in Android Studio. However, I repeatedly encountered errors that prevented me from making progress. I tried to correct the code in various ways but was ultimately unsuccessful. In an effort to improve my understanding and complete the project, I utilized several online resources, such as YouTube tutorials and an online course from Alura, a Brazilian online course platform.
-
+Title: Android Application Development Experience and Overview of Attempted Project
+Introduction: This report presents my experience in attempting to develop an Android application using Android Studio, as per the guidelines set by Professor Saravanabalagi Ramachandran. As a beginner in IT and mobile programming, I encountered numerous challenges during this project, and despite my best efforts, I could not generate a working APK or visualize the completed app.
+Challenges: The Android Studio environment presented a steep learning curve for me, as I was unfamiliar with many of the components and functions required for this project. My classmates and I have only been exposed to a basic level of Java programming, which made it difficult for us to comprehend the intricate details requested by the professor.
+Failed Attempts and Workarounds: I spent countless hours attempting to include the necessary components in Android Studio but repeatedly encountered errors that prevented me from making progress. I tried various ways to correct the code but was ultimately unsuccessful. To improve my understanding and complete the project, I utilized several online resources, such as YouTube tutorials and an online course from Alura, a Brazilian online course platform.
 Resources Used:
+1.	YouTube videos:
+      a. MOVIES APP - RETROFIT, GLIDE, RECYCLERVIEW AND MOVIEDB API PT 1 (https://www.youtube.com/watch?v=qt3WCP-_uaY)
+      b. MOVIES APP - RETROFIT, GLIDE, RECYCLERVIEW AND MOVIEDB API PT 2 (https://www.youtube.com/watch?v=OOLFhtyCspA)
+      c. MOVIES APP - RETROFIT, GLIDE, RECYCLERVIEW AND MOVIEDB API PT 3 (https://www.youtube.com/watch?v=4Gd2PIzU3zE)
+2.	Alura online course (https://cursos.alura.com.br/)
 
-YouTube videos:
+Learning Outcomes: Through my struggles, I gained valuable insight into the difficulties faced by beginners in the field of mobile programming. I also discovered the importance of perseverance and resourcefulness in overcoming these challenges. This experience has provided me with a deeper understanding of the complexities involved in developing Android applications using Android Studio.
 
-MOVIES APP - RETROFIT, GLIDE, RECYCLERVIEW AND MOVIEDB API PT 1 (https://www.youtube.com/watch?v=qt3WCP-_uaY)
-MOVIES APP - RETROFIT, GLIDE, RECYCLERVIEW AND MOVIEDB API PT 2 (https://www.youtube.com/watch?v=OOLFhtyCspA)
-MOVIES APP - RETROFIT, GLIDE, RECYCLERVIEW AND MOVIEDB API PT 3 (https://www.youtube.com/watch?v=4Gd2PIzU3zE)
-Alura online course (https://cursos.alura.com.br/)
-Learning Outcomes:
-Through my struggles, I gained valuable insight into the difficulties faced by beginners in the field of mobile programming. I also discovered the importance of perseverance and resourcefulness in overcoming these challenges. This experience has provided me with a deeper understanding of the complexities involved in developing Android applications using Android Studio.
+Request for Consideration: In light of my experiences, I respectfully request that Professor Saravanabalagi Ramachandran consider the challenges I faced in attempting to complete this project. While I was unable to fulfill all the requirements, I devoted significant time and effort to learning and understanding the material. I am confident that with further guidance and support, I will be able to improve my skills and accomplish more advanced tasks in the future.
+
+Future Commitment: For the next project, I commit to allocating even more time to study and practice, ensuring that I can perform better and meet the expected requirements. I believe that with dedication and hard work, I can overcome the obstacles I faced during this project and successfully develop Android applications using Android Studio.
+
+Project Overview and Code Explanation: This report also provides an overview and explanation of the code I have attempted for an Android app project. The code includes classes for a Movie, MainActivity, MovieDetailsActivity, and MovieListAdapter. The project aims to display a list of movies and allow users to select and purchase tickets for a specific movie.
+
+1.	Movie Class: The Movie class defines the properties of a movie, including ID, title, description, genre, actors, image URL, running time, show times, and available seats.
+2.	MainActivity: The MainActivity class sets up the RecyclerView and calls the fetchMovies() method to retrieve data from an external source.
+3.	MovieDetailsActivity: The MovieDetailsActivity class displays the details of a specific movie and allows users to select seats.
+4.	MovieListAdapter: The MovieListAdapter class populates the RecyclerView with movies and handles the onClick event to start the MovieDetailsActivity.
+
+Although I did not complete the app, the provided code demonstrates my attempt to create an Android app that displays movie information and allows users to select seats. The code showcases the use of various Android libraries such as Gson, Glide, and RecyclerView. Overall, the code demonstrates an understanding of Android app development concepts and a willingness to learn and explore new technologies.
 
 Conclusion:
-In light of my experiences, I respectfully request that Professor Saravanabalagi Ramachandran consider the challenges I faced in attempting to complete this project. Although I was unable to fulfill all the requirements, I devoted significant time and effort to learning and understanding the material. I am confident that with further guidance and support, I will be able to improve my skills and accomplish more advanced tasks in the future.
+Despite the setbacks, I remain committed to learning and improving my Android Studio skills. The experience has taught me the importance of perseverance and resourcefulness in overcoming challenges. I am confident that with further guidance, support, and dedication, I will be able to improve my skills, overcome the obstacles faced during this project, and successfully develop Android applications using Android Studio in the future.
 
-For the next project, I commit to allocating even more time to study and practice, ensuring that I can perform better and meet the expected requirements. I believe that with dedication and hard work, I can overcome the obstacles I faced during this project and successfully develop Android applications using Android Studio. Despite these setbacks, I remain committed to learning and improving my Android Studio skills.
+In conclusion, I respectfully request Professor Saravanabalagi Ramachandran to consider the challenges I faced during this project and appreciate the time and effort I have invested in learning and understanding the material. My commitment to study and practice will ensure better performance in future projects, ultimately leading to successful Android application development using Android Studio.
+
+
+
 
 ## APK Releases
 
