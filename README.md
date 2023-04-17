@@ -43,7 +43,8 @@ Resources Used:
       c. MOVIES APP - RETROFIT, GLIDE, RECYCLERVIEW AND MOVIEDB API PT 3 (https://www.youtube.com/watch?v=4Gd2PIzU3zE)
 2. Alura online course (https://cursos.alura.com.br/)
 3. Vue Cinema (Movie posters and info) https://www.myvue.com/cinema/dublin/whats-on
-4. PNG Images (+ and -) https://www.pngwing.com/en 
+4. PNG Images (+ and -) https://www.pngwing.com/en
+5. To help with some codes and errors: https://developer.android.com/ 
 
 Learning Outcomes: Through my struggles, I gained valuable insight into the difficulties faced by beginners in the field of mobile programming. I also discovered the importance of perseverance and resourcefulness in overcoming these challenges. This experience has provided me with a deeper understanding of the complexities involved in developing Android applications using Android Studio.
 
