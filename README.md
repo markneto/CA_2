@@ -24,7 +24,7 @@
 - [ ] 3. Bonus:
   - [ ] 3.1. Add "filling fast" badge if less than 3 seats remaining
   - [ ] 3.2. Use "Roboto Condensed" font to replicate same style
-  - [ ] 3.3. Use original movie images from myvue.com or your favourite provider (Hint: check get_movie_image_url.gif (provided on Moodle))
+  - [x ] 3.3. Use original movie images from myvue.com or your favourite provider (Hint: check get_movie_image_url.gif (provided on Moodle))
 
 ## Additional Features implemented
 
@@ -32,22 +32,21 @@ This is an optional section, feel free to remove this.
 
 ## Report
 
-A short report (300-1000 words) describing the challenges you faced, failed attempts and workarounds used, any helper or alternative libraries you have used, and what you have learned in the process. 
-
-Title: Android Studio Application Development - A Beginner's Struggle
+Struggles and Learning Outcomes in Android Studio Application Development
 
 Introduction:
-This essay recounts my experience attempting to develop an Android application using Android Studio, in accordance with the requirements and guidelines set by Professor Saravanabalagi Ramachandran. As a beginner with no prior knowledge in the field of IT or mobile programming, I faced numerous challenges in completing this project. Despite my best efforts, I was unable to generate a working APK or visualize the finished app.
+In this essay, I will share my experience attempting to develop an Android application using Android Studio as a beginner with no prior knowledge in IT or mobile programming. The project was in line with the requirements and guidelines set by Professor Saravanabalagi Ramachandran. I faced numerous challenges in completing this project, and unfortunately, I was unable to generate a working APK or visualize the finished app.
 
 Challenges:
-The Android Studio environment presented a significant learning curve for me, as I was unfamiliar with many of the components and functions required for this project. My classmates and I have only been exposed to a basic level of Java programming, which made it difficult for us to comprehend the intricate details requested by the professor.
+As a beginner, the Android Studio environment presented a significant learning curve for me. Many of the components and functions required for the project were unfamiliar to me. Also, my limited knowledge of Java programming made it difficult to comprehend the intricate details requested by the professor.
 
 Failed Attempts and Workarounds:
-I spent countless hours attempting to include the necessary components in Android Studio, but I repeatedly encountered errors that prevented me from making progress. I tried to correct the code in various ways but was ultimately unsuccessful. In an effort to improve my understanding and complete the project, I utilized several online resources, such as YouTube tutorials and an online course from Alura, a Brazilian online course platform.
+I spent countless hours attempting to include the necessary components in Android Studio. However, I repeatedly encountered errors that prevented me from making progress. I tried to correct the code in various ways but was ultimately unsuccessful. In an effort to improve my understanding and complete the project, I utilized several online resources, such as YouTube tutorials and an online course from Alura, a Brazilian online course platform.
 
 Resources Used:
 
 YouTube videos:
+
 MOVIES APP - RETROFIT, GLIDE, RECYCLERVIEW AND MOVIEDB API PT 1 (https://www.youtube.com/watch?v=qt3WCP-_uaY)
 MOVIES APP - RETROFIT, GLIDE, RECYCLERVIEW AND MOVIEDB API PT 2 (https://www.youtube.com/watch?v=OOLFhtyCspA)
 MOVIES APP - RETROFIT, GLIDE, RECYCLERVIEW AND MOVIEDB API PT 3 (https://www.youtube.com/watch?v=4Gd2PIzU3zE)
@@ -55,11 +54,10 @@ Alura online course (https://cursos.alura.com.br/)
 Learning Outcomes:
 Through my struggles, I gained valuable insight into the difficulties faced by beginners in the field of mobile programming. I also discovered the importance of perseverance and resourcefulness in overcoming these challenges. This experience has provided me with a deeper understanding of the complexities involved in developing Android applications using Android Studio.
 
-CIn light of my experiences, I respectfully request that Professor Saravanabalagi Ramachandran consider the challenges I faced in attempting to complete this project. While I was unable to fulfill all the requirements, I devoted significant time and effort to learning and understanding the material. I am confident that with further guidance and support, I will be able to improve my skills and accomplish more advanced tasks in the future.
+Conclusion:
+In light of my experiences, I respectfully request that Professor Saravanabalagi Ramachandran consider the challenges I faced in attempting to complete this project. Although I was unable to fulfill all the requirements, I devoted significant time and effort to learning and understanding the material. I am confident that with further guidance and support, I will be able to improve my skills and accomplish more advanced tasks in the future.
 
-For the next project, I commit to allocating even more time to study and practice, ensuring that I can perform better and meet the expected requirements. I believe that with dedication and hard work, I can overcome the obstacles I faced during this project and successfully develop Android applications using Android Studio.
-
-Despite these setbacks, I remain committed to learning and improving my Android Studio skills.
+For the next project, I commit to allocating even more time to study and practice, ensuring that I can perform better and meet the expected requirements. I believe that with dedication and hard work, I can overcome the obstacles I faced during this project and successfully develop Android applications using Android Studio. Despite these setbacks, I remain committed to learning and improving my Android Studio skills.
 
 ## APK Releases
 
