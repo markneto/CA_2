@@ -1,71 +1,72 @@
+
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context="com.example.mobileapps1.MovieDetailsActivity">
+
+<LinearLayout
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context="MovieDetailsActivity">
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
 
-    <LinearLayout
+    <ImageView
+        android:id="@+id/movie_image"
         android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/movie_title"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:padding="16dp">
+        android:textSize="24sp"
+        android:textStyle="bold"
+        tools:text="com.example.mobileapps1.Movie Title" />
 
-        <ImageView
-            android:id="@+id/movie_image"
-            android:layout_width="match_parent"
-            android:layout_height="200dp"
-            android:scaleType="centerCrop"
-            tools:srcCompat="@tools:sample/avatars" />
+    <TextView
+        android:id="@+id/movie_genre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        tools:text="Genre" />
 
-        <TextView
-            android:id="@+id/movie_title"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textSize="24sp"
-            android:textStyle="bold"
-            tools:text="Movie Title" />
+    <TextView
+        android:id="@+id/movie_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        tools:text="Description" />
 
-        <TextView
-            android:id="@+id/movie_genre"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textSize="18sp"
-            tools:text="Genre" />
+    <TextView
+        android:id="@+id/movie_actors"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        tools:text="Actors" />
 
-        <TextView
-            android:id="@+id/movie_description"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textSize="16sp"
-            tools:text="Description" />
+    <TextView
+        android:id="@+id/movie_showtimes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        tools:text="Showtimes" />
 
-        <TextView
-            android:id="@+id/movie_actors"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textSize="16sp"
-            tools:text="Actors" />
+    <TextView
+        android:id="@+id/movie_seats"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        tools:text="Available Seats" />
 
-        <TextView
-            android:id="@+id/movie_showtimes"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textSize="16sp"
-            tools:text="Showtimes" />
+    <Button
+        android:id="@+id/buy_tickets_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Buy Tickets" />
 
-        <TextView
-            android:id="@+id/movie_seats"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textSize="16sp"
-            tools:text="Available Seats" />
-
-        <Button
-            android:id="@+id/buy_tickets_button"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Buy Tickets" />
-
-    </LinearLayout>
+</LinearLayout>
 </ScrollView>

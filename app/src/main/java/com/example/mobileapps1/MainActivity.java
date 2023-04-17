@@ -1,3 +1,4 @@
+package com.example.mobileapps1;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
@@ -47,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
                 runOnUiThread(new Runnable() {
                     @Override
                     public void run() {
-                        Toast.makeText(MainActivity.this, "Erro ao buscar os filmes.", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(MainActivity.this, "Error.", Toast.LENGTH_SHORT).show();
                     }
                 });
             }

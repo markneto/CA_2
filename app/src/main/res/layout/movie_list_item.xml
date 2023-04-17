@@ -34,7 +34,7 @@
                 android:textSize="18sp"
                 android:textStyle="bold"
                 android:layout_marginTop="8dp"
-                tools:text="Movie Title" />
+                tools:text="com.example.mobileapps1.Movie Title" />
 
             <TextView
                 android:id="@+id/movie_genre"

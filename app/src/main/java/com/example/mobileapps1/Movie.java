@@ -1,3 +1,5 @@
+package com.example.mobileapps1;
+
 public class Movie {
     public int id;
     public String title;
