@@ -37,11 +37,13 @@ Introduction: This report presents my experience in attempting to develop an And
 Challenges: The Android Studio environment presented a steep learning curve for me, as I was unfamiliar with many of the components and functions required for this project. My classmates and I have only been exposed to a basic level of Java programming, which made it difficult for us to comprehend the intricate details requested by the professor.
 Failed Attempts and Workarounds: I spent countless hours attempting to include the necessary components in Android Studio but repeatedly encountered errors that prevented me from making progress. I tried various ways to correct the code but was ultimately unsuccessful. To improve my understanding and complete the project, I utilized several online resources, such as YouTube tutorials and an online course from Alura, a Brazilian online course platform.
 Resources Used:
-1.	YouTube videos:
+1. YouTube videos:
       a. MOVIES APP - RETROFIT, GLIDE, RECYCLERVIEW AND MOVIEDB API PT 1 (https://www.youtube.com/watch?v=qt3WCP-_uaY)
       b. MOVIES APP - RETROFIT, GLIDE, RECYCLERVIEW AND MOVIEDB API PT 2 (https://www.youtube.com/watch?v=OOLFhtyCspA)
       c. MOVIES APP - RETROFIT, GLIDE, RECYCLERVIEW AND MOVIEDB API PT 3 (https://www.youtube.com/watch?v=4Gd2PIzU3zE)
-2.	Alura online course (https://cursos.alura.com.br/)
+2. Alura online course (https://cursos.alura.com.br/)
+3. Vue Cinema (Movie posters and info) https://www.myvue.com/cinema/dublin/whats-on
+4. PNG Images (+ and -) https://www.pngwing.com/en 
 
 Learning Outcomes: Through my struggles, I gained valuable insight into the difficulties faced by beginners in the field of mobile programming. I also discovered the importance of perseverance and resourcefulness in overcoming these challenges. This experience has provided me with a deeper understanding of the complexities involved in developing Android applications using Android Studio.
 
